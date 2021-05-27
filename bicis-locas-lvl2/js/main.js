@@ -9,7 +9,6 @@ function cleaning() {
 	$('#input-email').parent().find('span').remove();
 	$('#input-password').parent().find('span').remove();
 	$('select').parent().find('span').remove();
-	console.log('Saludos');
 }
 
 function validateForm(){
